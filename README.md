@@ -4,4 +4,4 @@ Learn how to build a fully functional audio player with customizable controls an
 
 ## Publication Link
 
-[Read the full article](https://blog.ismailobadimu.com/building-a-custom-audio-player-with-react-typescript)
+[Read the full article](https://cradoe.hashnode.dev/building-a-custom-audio-player-with-react-typescript#clgsum6fl01hbkonv2sm0cpfq)
